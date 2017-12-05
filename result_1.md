@@ -5,7 +5,7 @@
 
 **第一期结果公示如下:**
 
-![BcHha.png](https://s1.ax2x.com/2017/10/31/BcHha.png)
+![](https://s1.ax2x.com/2017/12/05/TdNmG.png)
 
 ## 第二期题目地址：
 [戳我>=<](https://github.com/starwarein/Embedded/blob/master/Second_Step.md)
